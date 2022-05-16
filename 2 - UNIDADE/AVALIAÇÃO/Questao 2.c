@@ -3,7 +3,7 @@
 
 /*
 Nome: FRANCISCO RICARDO DOS SANTOS SILVA
-Matrícula: 2018010559
+Matrícula:
 
 2.  (2,0 pt) Escreva um programa em C que solicita e lê um valor inteiro e informa se ele é positivo, negativo ou neutro.
 */

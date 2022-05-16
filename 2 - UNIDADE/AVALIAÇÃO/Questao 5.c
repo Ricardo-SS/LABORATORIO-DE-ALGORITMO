@@ -3,7 +3,7 @@
 
 /*
 Nome: FRANCISCO RICARDO DOS SANTOS SILVA
-Matrícula: 2018010559
+Matrícula: 
 
 5.  (2,0 pt) Faça um programa em C que solicita e lê a idade de n pessoas, onde o valor de n 
             deve ser informado pelo usuário. Ao final, o programa deve informar o total de 

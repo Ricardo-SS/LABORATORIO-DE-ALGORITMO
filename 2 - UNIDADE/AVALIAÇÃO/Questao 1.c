@@ -3,7 +3,7 @@
 
 /*
 Nome: FRANCISCO RICARDO DOS SANTOS SILVA
-Matrícula: 2018010559
+Matrícula:
 
 1. (2,0 pt) Construa um programa em C que solicita e lê um valor inteiro e informa se ele é, ou não, múltiplo de 3.
 */

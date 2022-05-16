@@ -3,7 +3,7 @@
 
 /*
 Nome: FRANCISCO RICARDO DOS SANTOS SILVA
-Matrícula: 2018010559
+Matrícula:
 
 3. (2,0 pt) Faça um programa em C que exibe o somatório dos números pares 
             existentes no intervalo entre 10 (inclusive) e 300 (inclusive).

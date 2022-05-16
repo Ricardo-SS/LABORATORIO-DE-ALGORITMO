@@ -3,7 +3,7 @@
 
 /*
 Nome: FRANCISCO RICARDO DOS SANTOS SILVA
-Matrícula: 2018010559
+Matrícula:
 
 4.  (2,0 pt) Faça um programa em C que exibe os números ímpares existentes no intervalo de x (inclusive) 
             a y (inclusive), onde os valores de x e de y devem ser fornecidos pelo usuário.
