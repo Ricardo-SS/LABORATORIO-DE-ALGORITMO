@@ -9,9 +9,9 @@ total de números que foram exibidos.
 
 int main (){
 
-    int num=0, cont=0;
+    int num=0, cont=0, i;
 
-    for (int i = 10; i<=50; i++){
+    for (i = 10; i<=50; i++){
         if(i % 2 == 0){
             printf("Nº - %d\n", i);
             cont++;

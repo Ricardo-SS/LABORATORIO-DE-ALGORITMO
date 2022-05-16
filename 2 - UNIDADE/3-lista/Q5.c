@@ -19,8 +19,9 @@ a média aritmética e informar o conceito obtido, de acordo com a tabela a segu
 
 int main (){
     float media, n1, n2, n3;
+    int i;
     
-    for (int i = 1; i<=2; i++){
+    for (i = 1; i<=2; i++){
         //recebe a primeira nota do aluno
         printf("Digite a Nota 1: ");
         scanf("%f", &n1);
